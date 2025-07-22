@@ -1,5 +1,5 @@
 import random
-test_board = ['#','X','O','X','O','X','O','X','O','X'] # board to test function
+test_board = ['#','X','O','X','O','X','O','X','O','X'] # board to test game function 
 
 #### Display board ####
 
